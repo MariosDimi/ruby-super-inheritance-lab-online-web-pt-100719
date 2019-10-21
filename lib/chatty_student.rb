@@ -9,5 +9,5 @@ class ChattyStudent < Student
     10.times{raise_hand}
     super
     @in_class = true
-    
+  end
 end
