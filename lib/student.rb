@@ -1,7 +1,6 @@
 class Student
-  def hello(phrase)
-    phrase = "Hey there! I'm so excited to learn stuff."
-    puts phrase
+  def hello
+    puts "Hey there! I'm so excited to learn stuff."
   end
   
   def raise_hand
