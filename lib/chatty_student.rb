@@ -8,6 +8,6 @@ class ChattyStudent < Student
   def raise_hand
     super
     @in_class = true
-    10.times.puts "Pick me!"
+    puts "Pick me!"
   end
 end
