@@ -1,5 +1,6 @@
 class ChattyStudent < Student
   def hello
     super
-    @in_student = true
+    @in_class = true
+    puts 
   end
