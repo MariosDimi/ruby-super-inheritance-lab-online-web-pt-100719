@@ -7,6 +7,15 @@ class ChattyStudent < Student
   
   def raise_hand
     raise_hand
+    raise_hand
+    raise_hand
+    raise_hand
+    raise_hand
+    raise_hand
+    raise_hand
+    raise_hand
+    raise_hand
+    raise_hand
     super
     @in_class = true
   end
