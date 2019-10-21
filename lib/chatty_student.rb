@@ -10,5 +10,12 @@ class ChattyStudent < Student
     @in_class = true
     puts "Pick me!"
     puts "Pick me!"
+    puts "Pick me!"
+    puts "Pick me!"
+    puts "Pick me!"
+    puts "Pick me!"
+    puts "Pick me!"
+    puts "Pick me!"
+    puts "Pick me!"
   end
 end
