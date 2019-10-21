@@ -6,17 +6,7 @@ class ChattyStudent < Student
   end
   
   def raise_hand
-    raise_hand
-    raise_hand
-    raise_hand
-    raise_hand
-    raise_hand
-    raise_hand
-    raise_hand
-    raise_hand
-    raise_hand
-    raise_hand
-    super
+    10.times.super
     @in_class = true
   end
 end
